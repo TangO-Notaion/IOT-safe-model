@@ -1,2 +1,2 @@
-# IOT-safe-model
+# IoT-safe-model
 
