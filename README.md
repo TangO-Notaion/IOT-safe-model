@@ -1,4 +1,4 @@
 # IOT-safe-model
 
 ตัวอย่างการทำงาน
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/MW7DnoHcyZY?feature=share))
+[![Watch the video]]([https://youtu.be/T-D1KVIuvjA](https://youtube.com/shorts/MW7DnoHcyZY?feature=share))
