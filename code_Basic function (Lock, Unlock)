@@ -7,7 +7,7 @@
 #define DHTTYPE DHT22
 #define LINE_TOKEN  "ZEqXoOMFnqVvJtERXQjJVMiDmIaaOSKOJRyUZ01LOFT"
 #define SSID "------" // Change the name of the WiFi you want to connect to.
-#define PASSWORD "T------" // Change the WiFi password to connect.
+#define PASSWORD "------" // Change the WiFi password to connect.
 
 int LED1 = 18; 
 int LED2 = 5; 
