@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Appearance](#Appearance)
-- [Source code](#Source%20code) 
+- [Code](#Code) 
 - [ตัวอย่างการทำงาน](#%E0%B8%95%E0%B8%B1%E0%B8%A7%E0%B8%AD%E0%B8%A2%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%97%E0%B8%B3%E0%B8%87%E0%B8%B2%E0%B8%99)
 
 ## Appearance
@@ -26,7 +26,7 @@ Inside:
 <img src="https://github.com/TangO-Notaion/IOT-safe-model/blob/main/inside_2.jpg" width=400 height=300>
 
 
-## Source code 
+## Code 
 
  - [Basic function (Lock, Unlock)](https://github.com/TangO-Notaion/IOT-safe-model/blob/main/code_Basic%20function%20(Lock%2C%20Unlock).ino
    "code_Basic function (Lock, Unlock).ino") 
